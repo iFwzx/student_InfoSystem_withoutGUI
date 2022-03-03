@@ -2,7 +2,7 @@
 // faisal Alfawaz , 
 //Emad althukair , 
 // Hassan Alamri , 
-/// Fawaz ayachi  , this is me 
+/// Fawaz Ayashi  , this is me 
 //Sectiom : 4m5  , Project Group : 1
 // instructior : Saad Alharthi 
 #include <iostream>
